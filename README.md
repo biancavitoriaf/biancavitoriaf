@@ -10,9 +10,8 @@
 
 <br>
 
-<div align="center">
-  <img align="center" height="150" src= https://imgur.com/gallery/asuka-langley-2E3zqrJ#vfFsxaA.png" />
-</div>
+
+
 
 <div align="center">
   
@@ -38,7 +37,7 @@
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=bianca vitoria&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Bianca &rank_icon=github&show_icons=true&theme=radical&count_private=true">
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=biancavitoriaf&layout=compact&theme=radical&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca vitoria&theme=radical"/>
 </div>
