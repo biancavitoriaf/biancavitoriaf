@@ -38,9 +38,9 @@
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=biancavitoriaf&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=biancavitoriaf&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancavitoriaf&theme=radical"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
