@@ -1,10 +1,5 @@
-## Hiii 👋
 
-- 🌱 I’m currently learning java;
-- 👯 I’m looking to collaborate on programming projects;
-- 🤔 I’m looking for help with java and software development;
-- 😄 Pronouns: she/her;
-- ⚡ Fun fact: I' m learning English.
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
