@@ -21,32 +21,6 @@
   
 
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Aluna de Licenciatura em ciência da computação. ♡-pink" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Bianca &rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=biancavitoriaf&layout=compact&theme=radical&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bianca vitoria&theme=radical"/>
-</div>
-
-<div align="center" style="display: inline_block"><br>
- 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
- 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
- 
-  
-</div>
-
-<br>
-<br>
 
 <details align="center">  
   <summary>
